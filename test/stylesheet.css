@@ -1,0 +1,137 @@
+/* 
+    Document   : stylesheet
+    Created on : May 6, 2010, 12:48:46 AM
+    Author     : nbuser
+    Description: styles for MyAjaxApp
+*/
+
+body {
+   font-family: sans-serif;
+   font-size:  small;
+   font-weight: bold;
+   
+   color: #555;
+   width: 1000px;
+}
+
+h1{
+	position:absolute;
+	top:-40px;
+	left:25px;
+	width:1000px;
+	text-align: center;
+	padding: 240px;
+	background-color: lightgray;
+	border: 1px solid black;
+	border-radius: 500px;
+	color: black;
+	font-size:150px;
+}
+
+
+.y{
+	position:relative;
+	left:0px;
+	top:-5px;
+}
+.z{
+	position:relative;
+	left:1100px;
+	top:-5px;
+}
+.u {
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 50px;
+   background-color: #000000;
+   margin: 0;
+   
+	overflow: hidden;
+}
+.asezare {
+	position: absolute;
+    top: 200px;
+    left: 20px;
+	
+}
+.poz {
+	position: absolute;
+    top: 350px;
+    left: 100px;
+	
+}
+.pz{
+	position:absolute;
+	left:600px;
+	top:-100px;
+}
+.back{
+	position:absolute;
+	left:10px;
+	top:5px;
+}
+.distanta{
+	position:absolute;
+
+	left:600px;
+}
+.harta{
+	position:absolute;
+	top:200px;
+	left:800px;
+}
+.lf{
+	position:absolute;
+	top:160px;
+	left:1050px;
+}
+
+
+td {
+   padding: 10px;
+}
+
+a {
+  color:#bcbcbc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.popupBox {
+  position: absolute;
+  top: 170px;
+  left: 1200px;
+}
+
+.popupCell {
+   background-color: #fffafa;
+}
+
+.popupCell:hover {
+  background-color: #f5ebe9
+}
+
+.popupItem {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+.crt{
+	position:absolute;
+	left:1175px;
+	top:10px;
+	
+}
+ .circle {
+	 position:absolute;
+	left:1170px;
+	top:3px;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      background-color: white;
